@@ -1,0 +1,7 @@
+node_modules
+.DS_Store*
+.hubot_history
+.c9/
+.editorconfig
+bin/hubot.org
+run_bot.sh
