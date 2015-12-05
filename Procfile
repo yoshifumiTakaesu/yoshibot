@@ -1,1 +1,1 @@
-web: ./run_bot.sh shell
+web: ./run_bot.sh twitter
