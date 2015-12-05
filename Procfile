@@ -1,1 +1,1 @@
-web: ./run_bot.sh twitter
+web: bin/hubot -a twitter
