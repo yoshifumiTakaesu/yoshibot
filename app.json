@@ -1,0 +1,34 @@
+{
+  "name": "yoshibot",
+  "env": {
+    "TZ": {
+      "descirption": "Timezone",
+      "value": "Asia/Tokyo"
+    },
+    "HUBOT_DEPLOY_APPS_JSON": {
+      "value": "deploy.json"
+    },
+    "HUBOT_CHATWORK_API_RATE": {
+      "value": ""
+    },
+    "HUBOT_CHATWORK_ROOMS": {
+      "value": ""
+    },
+    "HUBOT_CHATWORK_TOKEN": {
+      "value": ""
+    },
+    "HUBOT_HEROKU_KEEPALIVE_INTERVAL": {
+      "value": "20"
+    },
+    "HUBOT_HEROKU_KEEPALIVE_URL": {
+      "value": ""
+    },
+    "HUBOT_NAME": {
+      "value": "yoshibot"
+    },
+    "PROCESS_SCHEDULER_URL": {
+      "value": ""
+    }
+  },
+   "addons": ["process scheduler"]
+}
