@@ -5,9 +5,11 @@
   "hubot-google-images",
   "hubot-google-translate",
   "hubot-heroku-keepalive",
+  "hubot-deploy",
+  "hubot-cron",
+  "hubot-youtube",
   "hubot-pugme",
   "hubot-maps",
-  "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit"
 ]
