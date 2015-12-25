@@ -1,9 +1,0 @@
-{
-  "yoshibot": {
-    "provider": "heroku",
-    "auto_merge": false,
-    "repository": "yoshifumiTakaesu/yoshibot",
-    "environments": ["production"],
-    "heroku_production_name": "yoshibot-ch"
-  }
-}
