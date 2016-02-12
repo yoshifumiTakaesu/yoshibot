@@ -4,5 +4,3 @@ node_modules
 .c9/
 .editorconfig
 bin/hubot.org
-run_bot.sh
-Procfile.org
